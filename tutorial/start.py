@@ -1,2 +1,2 @@
 print("Hello World!")
-print("I think is blue.")
+print("I think the sky is black.")
