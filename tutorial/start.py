@@ -1,5 +1,1 @@
 print("Hello World!")
-print("New commit!")
-print("Print the sum of 2 + 2: ", 2+2)
-print("And one more change!")
-print("Change again!")
